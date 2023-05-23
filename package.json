@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-prisma-restapi",
+  "version": "1.0.0",
+  "description": "Rest API creada con Prisma para manejo de base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restAPIPrisma"
+  },
+  "keywords": [
+    "NodeJs",
+    "Prisma",
+    "Express",
+    "JavaScript"
+  ],
+  "author": "Luiss Lugo",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^4.14.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.14.1"
+  }
+}
